@@ -33,7 +33,7 @@ function App() {
           borderRadius: '50%'
         }}
         />
-      <MyButton />
+      <MyButton myText="Click Me" />
       <ul>{listItems}</ul>
     </>
   )
